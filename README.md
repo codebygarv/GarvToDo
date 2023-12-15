@@ -1,65 +1,29 @@
-### react-todo (v0.1.0)
+# Build a drag and drop Kanban Board: React, Typescript, Tailwind, Dnd-Kit
 
-It is a drag and drop todo app made using Reactjs, vite and tailwindcss.
+Hi everyone,
 
-[![GitHub license](https://img.shields.io/github/license/iamnullman/react-todo.svg)]
-[![Stars](https://img.shields.io/github/stars/iamnullman/react-todo.svg)]
+Are you looking for a fun and practical project to improve your React skills? Do you want to learn how to create a kanban board that lets you organize your tasks and projects in a visual way?
 
-## Preview
+I’ve just uploaded a new video where I show you how to build a kanban board from scratch using React, TypeScript, TailwindCSS and dnd-kit.
 
-![Preview](/public/ui.png)
+[Demo](https://react-kanban-board-dnd-kit-tutorial-yt.vercel.app/)
 
-## Getting Started:
+[Video tutorial](https://youtu.be/RG-3R6Pu_Ik)
 
-First, install the dependencies:
-
-```bash
-npm install
-# veya
-pnpm install
-# veya
-yarn install
-```
-
-Then, run the development server:
-
-```bash
-npm run dev
-# veya
-pnpm run dev
-# veya
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-## How to Use:
-
-1. To start the application, follow the steps above.
-2. Open [http://localhost:3000](http://localhost:3000) in your browser.
-3. Enter your username and click the "Login" button.
-4. You can now start chatting. Enter your message and click the "Send" button to send messages to other users.
-
-## Features:
-
-- Categorizing tasks with drag and drop
-- Store what is written and see it next time
-
-## Contributing:
-
-If you want to contribute to this project, you can follow these steps:
-
-1. Fork this repository and run it on your own project.
-2. Make your changes and add descriptive comments.
-3. Create a pull request.
-
-## License:
-
-This project is licensed under the MIT License. For more information, see the LICENSE file.
-
-## Contact:
-
-For any questions or feedback, you can reach us at nullm4n@yandex.com or [![Discord](
-https://img.shields.io/discord/975386456635883581?color=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.gg/pS4YCmywQ7)
+![dnd_tutorial_thumbnail](https://github.com/Kliton/react-kanban-board-dnd-kit-tutorial-yt/assets/10452377/1321f859-105a-4fd2-a462-3745c89e410a)
 
 
+
+
+
+In this video, you will learn how to:
+
+Create columns and tasks with React components
+Enable drag and drop functionality for both columns and tasks using dnd-kit
+Edit the content and title of tasks and columns with inline editing
+Style the UI with TailwindCSS utility classes
+This project is a great way to practice your React skills and learn some new techniques and libraries. You will also end up with a useful tool that you can use for your own projects or customize further.
+
+So what are you waiting for? Check out the video below and let me know what you think in the comments.
+
+I hope you enjoy it as much as I did 😃
